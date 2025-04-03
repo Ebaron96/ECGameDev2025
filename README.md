@@ -17,7 +17,12 @@ This is a "Hackathon" style project.
 
 ## 🛠️ Getting Started
 
-tbd..
+### Helpful Tutorials
+
+- 🎥 [Godot Basics & Setup (Game Dev Guide)](https://www.youtube.com/watch?v=LOhfqjmasi0&t=2889s)
+- 🎥 [Godot Multiplayer Sync](https://www.youtube.com/watch?v=1khSuB6sER0)
+- 🎥 [Godot Input System (WASD Movement)](https://www.youtube.com/watch?v=9ANa_V1mc9E)
+- 🎥 [Godot Top-down Movement Tutorial](https://www.youtube.com/watch?v=sVsn9NqpVhg&t=171s)
 
 ### Prerequisites
 
