@@ -17,17 +17,16 @@ This is a "Hackathon" style project.
 
 ## 🛠️ Getting Started
 
-### Helpful Tutorials
+- [Download Godot 4.1 Here!](https://godotengine.org/download/)
+- [Download Blender Here!](https://www.blender.org/download/) if you want to edit models
 
+### Godot Tutorials
 - 🎥 [Godot 2D: Learning the Basics](https://www.youtube.com/watch?v=LOhfqjmasi0&t=2889s)
-- 🎥 [Blander Rigging: Intro](https://www.youtube.com/watch?v=1khSuB6sER0)
 - 🎥 [Godot and Blender](https://www.youtube.com/watch?v=9ANa_V1mc9E)
 - 🎥 [Godot 3D: Intro to 3D](https://www.youtube.com/watch?v=sVsn9NqpVhg&t=171s)
-
-### Prerequisites
-
-- [Get Godot 4.1 Here!](https://godotengine.org/download/)
-- [Download Blender Here!](https://www.blender.org/download/) if you want to edit models
+- 
+### Blender Tutorials
+- 🎥 [Blander Rigging: Intro](https://www.youtube.com/watch?v=1khSuB6sER0)
 
 ### Running the Project
 
