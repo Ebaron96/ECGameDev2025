@@ -24,7 +24,7 @@ This is a "Hackathon" style project.
 - 🎥 [Godot 2D: Learning the Basics](https://www.youtube.com/watch?v=LOhfqjmasi0&t=2889s)
 - 🎥 [Godot and Blender](https://www.youtube.com/watch?v=9ANa_V1mc9E)
 - 🎥 [Godot 3D: Intro to 3D](https://www.youtube.com/watch?v=sVsn9NqpVhg&t=171s)
-- 
+
 ### Blender Tutorials
 - 🎥 [Blander Rigging: Intro](https://www.youtube.com/watch?v=1khSuB6sER0)
 
