@@ -19,15 +19,15 @@ This is a "Hackathon" style project.
 
 ### Helpful Tutorials
 
-- 🎥 [Godot Basics & Setup (Game Dev Guide)](https://www.youtube.com/watch?v=LOhfqjmasi0&t=2889s)
-- 🎥 [Godot Multiplayer Sync](https://www.youtube.com/watch?v=1khSuB6sER0)
-- 🎥 [Godot Input System (WASD Movement)](https://www.youtube.com/watch?v=9ANa_V1mc9E)
-- 🎥 [Godot Top-down Movement Tutorial](https://www.youtube.com/watch?v=sVsn9NqpVhg&t=171s)
+- 🎥 [Godot 2d: Learning the Basics](https://www.youtube.com/watch?v=LOhfqjmasi0&t=2889s)
+- 🎥 [Blander Rigging: Intro](https://www.youtube.com/watch?v=1khSuB6sER0)
+- 🎥 [Godot and Blender](https://www.youtube.com/watch?v=9ANa_V1mc9E)
+- 🎥 [Godot 3d: Intro to 3D](https://www.youtube.com/watch?v=sVsn9NqpVhg&t=171s)
 
 ### Prerequisites
 
-- [Godot 4.1](https://godotengine.org/download/)
-- (Optional) Blender if you want to edit models
+- [Get Godot 4.1 Here!](https://godotengine.org/download/)
+- [Download Blender Here!](https://www.blender.org/download/) if you want to edit models
 
 ### Running the Project
 
